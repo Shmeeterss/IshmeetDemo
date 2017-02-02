@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_df46eaa5cd29209c96c32a6552f902bf84f3ac41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b50108e427a943c82580e92c4725980b1c2d8f9e">
+        <dex dex="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_516806deb5e4aca5d9cd2a2c13c0be2625f57371/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_2c52faba199df69adac4e24c5af9452dc97bbd4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_e82981ed794c30348c7d059865480da46ba88e6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_3a0e4e396e8179076189f58e32cf5058bcee73a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_91e89473ff5aea7c982ccdecff7cb67d0382641b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shmeeters/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_021357cbff4412166fbc585f731c485c7641c40c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e896d06330337df0097080ccd53a036ce143407a">
+        <dex dex="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e4d5332a4eb445a855476b7fc0a2651e7d9a35a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_afbe6a7d66e7096edbf286a3cb932e1ceb588990/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_f373991c89b07f58907b791532dd1dc75ed141fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_4dd8cdf4d8b83a3dfad4304ee8164834e6f18eda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/Shmeeters/Downloads/IshmeetDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_28749d8110f1fded77eaf14cccda1f1593d171d7/classes.dex" />
+    </item>
+
+</items>
